@@ -1,4 +1,4 @@
-package oopsproblems;
+package stockAccountManagemnt;
 
 import java.util.ArrayList;
 import java.util.Scanner;
