@@ -1,4 +1,4 @@
-package oopsproblems;
+package stockAccountManagemnt;
 
 public class Stock {
 	private String stockName;
@@ -50,6 +50,4 @@ public class Stock {
 				+"\nTotalValue    = " + TotalValue+"\n";
 	}
 
-	
-	
 }
