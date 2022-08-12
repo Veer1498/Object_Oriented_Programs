@@ -22,7 +22,6 @@ public class AccountMain {
 				System.out.println("Account Balance : Rs."+acc.getAmount());
 				chooseOption();
 				break;
-				
 			case 2:
 				for (int i=0;i<10;i++) {
 					if(acc.getAmount() == 0) {
